@@ -100,6 +100,11 @@ E:\ADB\platform-tools>adb shell settings put system screen_brightness 100
 E:\ADB\platform-tools>adb shell settings get system screen_brightness 
 100
 
+E:\ADB\platform-tools>adb install C:\Users\Dell\Downloads\com.saadderaiya.MS_Paint_2018-08-16.apk
+Performing Streamed Install
+Success
+
+
 E:\ADB\platform-tools>adb shell
 j6lte:/ $ ls
 ls: ./preload: Permission denied
